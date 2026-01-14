@@ -1,0 +1,99 @@
+query,category
+Where is my order?,Order Status
+Can you track my shipment?,Order Status
+My order has not arrived yet,Order Status
+I want to know the delivery status,Order Status
+Order is delayed,Order Status
+Still waiting for my package,Order Status
+Tracking number not working,Order Status
+Has my order been shipped?,Order Status
+Expected delivery date?,Order Status
+Why is my order late?,Order Status
+Order status shows pending,Order Status
+Shipment stuck for days,Order Status
+My order is out for delivery?,Order Status
+Courier has not contacted me,Order Status
+Delivery status not updated,Order Status
+Order marked delivered but not received,Order Status
+Wrong delivery address update,Order Status
+
+I want a refund,Returns & Refunds
+How can I return my product?,Returns & Refunds
+Refund not received yet,Returns & Refunds
+Return policy details,Returns & Refunds
+I received a damaged item,Returns & Refunds
+Product is defective,Returns & Refunds
+How long does refund take?,Returns & Refunds
+Item missing in my order,Returns & Refunds
+Wrong item delivered,Returns & Refunds
+Can I exchange this product?,Returns & Refunds
+Refund amount incorrect,Returns & Refunds
+Return request not approved,Returns & Refunds
+Refund still pending,Returns & Refunds
+How to cancel my order?,Returns & Refunds
+Return pickup not scheduled,Returns & Refunds
+Refund not reflecting in bank,Returns & Refunds
+
+Payment failed but money deducted,Billing & Payments
+Why was my payment declined?,Billing & Payments
+Invoice not generated,Billing & Payments
+Incorrect billing amount,Billing & Payments
+How do I update my payment method?,Billing & Payments
+Charged twice for same order,Billing & Payments
+Payment stuck on processing,Billing & Payments
+Unable to apply discount code,Billing & Payments
+Tax amount seems wrong,Billing & Payments
+Need invoice copy,Billing & Payments
+UPI payment failed,Billing & Payments
+Card payment not successful,Billing & Payments
+EMI option not working,Billing & Payments
+Payment confirmation not received,Billing & Payments
+Wallet balance not updated,Billing & Payments
+
+I forgot my password,Account Issues
+Unable to login to my account,Account Issues
+How can I change my email?,Account Issues
+Account is locked,Account Issues
+I want to delete my account,Account Issues
+OTP not received,Account Issues
+Unable to verify my account,Account Issues
+Change mobile number,Account Issues
+My account was hacked,Account Issues
+Email verification failed,Account Issues
+Reset password link expired,Account Issues
+Username not recognized,Account Issues
+Login keeps failing,Account Issues
+Two-factor authentication issue,Account Issues
+Deactivate my account temporarily,Account Issues
+
+App is crashing frequently,Technical Support
+Website not loading,Technical Support
+Facing technical issues,Technical Support
+Error while placing order,Technical Support
+Payment page not opening,Technical Support
+App stuck on loading screen,Technical Support
+Server error occurred,Technical Support
+Buttons not working properly,Technical Support
+Search feature not working,Technical Support
+App is very slow,Technical Support
+Website shows blank page,Technical Support
+Error code displayed,Technical Support
+Unable to upload documents,Technical Support
+Notification not working,Technical Support
+App freezes after login,Technical Support
+
+What services do you provide?,General Inquiry
+How can I contact support?,General Inquiry
+Working hours of customer service,General Inquiry
+Do you have a mobile app?,General Inquiry
+Is this product available?,General Inquiry
+How do I create an account?,General Inquiry
+Do you offer home delivery?,General Inquiry
+Is there any ongoing offer?,General Inquiry
+How to use this platform?,General Inquiry
+Where are you located?,General Inquiry
+Do you support international orders?,General Inquiry
+How to give feedback?,General Inquiry
+Is cash on delivery available?,General Inquiry
+How to subscribe for updates?,General Inquiry
+Do you have customer care number?,General Inquiry
